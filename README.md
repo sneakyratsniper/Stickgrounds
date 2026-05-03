@@ -8,25 +8,25 @@ Get assets at https://drive.google.com/drive/folders/1lxPZcehwBib8yb9Ac5xbkhnj4g
 images cropped with https://bulkimagecrop.com/
 
 
-PLAYER 1 CONTROLS:
-JUMP - W 
-MOVE LEFT - A
-MOVE RIGHT - D 
-BLOCK - S 
-DASH - LEFT SHIFT
-PUNCH 1 - Z
-PUNCH 2 - Z + Z
-KICK - X 
-ULTIMATE - Q 
+PLAYER 1 CONTROLS:  
+JUMP - W   
+MOVE LEFT - A  
+MOVE RIGHT - D   
+BLOCK - S   
+DASH - LEFT SHIFT  
+PUNCH 1 - Z  
+PUNCH 2 - Z + Z  
+KICK - X   
+ULTIMATE - Q   
 
-PLAYER 2 CONTROLS:
-JUMP - UP ARROW
-MOVE LEFT - LEFT ARROW
-MOVE RIGHT - RIGHT ARROW
-BLOCK - DOWN ARROW
-DASH - RIGHT SHIFT
-PUNCH 1 - N
-PUNCH 2 - N + N
-KICK - M
+PLAYER 2 CONTROLS:  
+JUMP - UP ARROW  
+MOVE LEFT - LEFT ARROW  
+MOVE RIGHT - RIGHT ARROW  
+BLOCK - DOWN ARROW  
+DASH - RIGHT SHIFT  
+PUNCH 1 - N  
+PUNCH 2 - N + N  
+KICK - M  
 ULTIMATE - L 
 
